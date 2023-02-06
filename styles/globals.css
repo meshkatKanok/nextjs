@@ -20,34 +20,5 @@ font-weight: 700;
 letter-spacing: 0.01em;
 color: #262524;
  }
- .bgImg{
-  width: 393.72px;
-  height: 453.81px;
-   background-image: url(/public/Group\ 3840.png)
- }
- .bgImg2{
-  width: 434px;
-height: 434px;
-background-image: url(/public/Ellipse\ 136.png);
- }
- .bgTrainerImg{
-  width: 358px;
-height: 580px;
-background-image: url(/public/image\ 77.png);
- }
- .bgCarv{
-  width: 427px;
-height: 323px;
-background-image: url(/public/Vector\ 32.png);
- }
-
- .responsiveCirlce{
-  width: 254.41px;
-height: 254.41px;
-background-image: url(/public/Ellipse\ responsive.png);
- }
- .bgresponsiveDew{
-  width: 230.8px;
-  height:266.02px;
-  background-image: url(/public/responsiveDewImage.png);
- }
+  
+ 
